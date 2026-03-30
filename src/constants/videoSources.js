@@ -1,0 +1,18 @@
+export const VIDEO_SOURCES = [
+  { id: 1, name: "Entrance", src: "/videos/cc.mp4" },
+  { id: 2, name: "Lobby", src: "/videos/cct.mp4" },
+  { id: 3, name: "Parking A", src: "/videos/cct.mp4" },
+  { id: 4, name: "Parking B", src: "/videos/cct.mp4" },
+  { id: 5, name: "Hallway 1", src: "/videos/cct.mp4" },
+  { id: 6, name: "Hallway 2", src: "/videos/cct.mp4" },
+  { id: 7, name: "Server Room", src: "/videos/cct.mp4" },
+  { id: 8, name: "Storage", src: "/videos/cct.mp4" },
+  { id: 9, name: "Cafeteria", src: "/videos/cct.mp4" },
+  { id: 10, name: "Reception", src: "/videos/cct.mp4" },
+  { id: 11, name: "Exit Gate", src: "/videos/cct.mp4" },
+  { id: 12, name: "Rooftop", src: "/videos/cct.mp4" },
+  { id: 13, name: "Basement", src: "/videos/cct.mp4" },
+  { id: 14, name: "Office 1", src: "/videos/cct.mp4" },
+  { id: 15, name: "Office 2", src: "/videos/cct.mp4" },
+  { id: 16, name: "Warehouse", src: "/videos/cct.mp4" },
+];
