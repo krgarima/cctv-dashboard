@@ -1,5 +1,5 @@
 export const VIDEO_SOURCES = [
-  { id: 1, name: "Entrance", src: "/videos/cc.mp4" },
+  { id: 1, name: "Entrance", src: "/videos/cct.mp4" },
   { id: 2, name: "Lobby", src: "/videos/cct.mp4" },
   { id: 3, name: "Parking A", src: "/videos/cct.mp4" },
   { id: 4, name: "Parking B", src: "/videos/cct.mp4" },
